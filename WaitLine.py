@@ -43,3 +43,5 @@ class WaitLine():
                 print(Blank, end = '\r')
             time.sleep(self.Speed)
             
+
+#print("Test")
