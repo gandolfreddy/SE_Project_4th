@@ -46,5 +46,9 @@ class WaitLine():
 
 # print("Test")
 # print("Test 2")
+<<<<<<< HEAD
 
 print("zxc")
+=======
+# print("Test 3")
+>>>>>>> 298ebb59ad2f051e31499c7d33ad90464cbb8734
