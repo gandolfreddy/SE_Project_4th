@@ -44,5 +44,4 @@ class WaitLine():
             time.sleep(self.Speed)
             
 
-# print("Test")
 # print("Test 2")
